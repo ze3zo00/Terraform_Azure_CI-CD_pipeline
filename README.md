@@ -1,1 +1,0 @@
-# Terraform_Azure_CI-CD_pipeline
